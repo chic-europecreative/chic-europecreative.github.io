@@ -10,10 +10,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "Portfolio nicolasof"
+title                    : "CHIC"
 title_separator          : "-"
-name                     : &name "Nicolas de Barquin" # &name is a YAML anchor which can be *referenced later
-description              : &description "my new website with github and jeckyll"
+name                     : &name "Cultural Hybridization In Common" # &name is a YAML anchor which can be *referenced later
+description              : &description "website with github and jeckyll"
 url                      : https://nicolasdb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : nicolasdb # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : nicolas.de.barquin
+  facebook         : 
   foursquare       :
-  github           : nicolasdb
+  github           : 
   gitlab           :
-  google_plus      : +nicolasdeBarquin
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
@@ -110,7 +110,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  vimeo            : openfab
+  vimeo            : 
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
