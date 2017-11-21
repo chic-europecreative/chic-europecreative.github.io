@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "CHIC"
+title                    : "CHIC - Europe Creative"
 title_separator          : "-"
 name                     : &name "Cultural Hybridization In Common" # &name is a YAML anchor which can be *referenced later
 description              : &description "website with github and jeckyll"
