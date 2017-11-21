@@ -10,8 +10,7 @@ main:
      url: /terms/
    - title: "How to contribute?"
      url: /sample-page/
-
  #  - title: "Sitemap Ref"
- #   url: https://mmistakes.github.io/minimal-mistakes/sitemap
-   - title: "CC-By-SA"
-     url: /terms/
+ #    url: https://mmistakes.github.io/minimal-mistakes/sitemap
+ #  - title: "CC-By-SA"
+ #    url: /terms/
