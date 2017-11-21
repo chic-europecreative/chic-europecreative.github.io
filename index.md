@@ -4,7 +4,7 @@ layout: splash
 # permalink: /
 excerpt: "An European project aimed at connecting, networking, discussing creative process around the «stamp» and the notion of «free». "
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#26282c"
   overlay_image: /assets/images/igor-ovsyannykov-342526.jpg
   caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
 excerpt: 'A flexible two-column Jekyll theme.'
