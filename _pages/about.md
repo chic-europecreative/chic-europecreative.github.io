@@ -18,7 +18,7 @@ Learning through play is a useful tool to motivate people, to reignite their int
 
 The philosophy of free culture, inherited from the free software movement, relies on a bank of independent initiatives of solidarity, and on exchanges around the aptitudes and opportunities for all; it is also based upon the democratisation of knowledge, education and means of production, as well as on a distribution of income that is proportional to the work completed.
 
-<figure class="align-center">
+<figure style="width: 400px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/7783031873_shadok04-03.gif" alt="">
   <figcaption>je pompe donc je suis</figcaption>
 </figure>
@@ -29,7 +29,7 @@ The changes caused by the NTIC: the mass treatment of digital data and the impro
 
 The local democracy crisis: can the Open design have an impact on the way citizens engage and get involved with fundamental social issues, such as healthy eating or the question of identity ?
 
-<figure class="align-center">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo-creative-commons.png" alt="">
   <figcaption>creative commons</figcaption>
 </figure>
