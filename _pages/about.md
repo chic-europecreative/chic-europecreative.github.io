@@ -3,12 +3,11 @@ permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 feature_row:
- - image_path: http://www.chic-europecreative.eu/wa_images/7783031873_shadok04-03.gif
+ - image_path: /assets/images/7783031873_shadok04-03.gif
      alt: "je pompe donc je suis"
 feature_row2:
- - image_path: http://www.chic-europecreative.eu/wa_images/logo-creative-commons.png
+ - image_path: /assets/images/logo-creative-commons.png
      alt: "creative commons"
-
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
