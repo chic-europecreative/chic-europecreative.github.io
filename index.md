@@ -1,5 +1,5 @@
 ---
-title: "nicolas de Barquin"
+# title: "nicolas de Barquin"
 layout: archive
 excerpt: "I want this github-page to be my portfolio but also an example on how awesomely usefull github can be."
 header:
