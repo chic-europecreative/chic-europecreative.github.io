@@ -16,7 +16,7 @@ Our partners from Belgium, Spain, France, Italy and Latvia are sensitive to the 
 
 They wanted to share their expertise in a collective project in order to experiment with new ways of « rebuilding cities », founded on an economy of solidarity.
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 450px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/simple.gif" width="300" alt="">
 </figure>
 
