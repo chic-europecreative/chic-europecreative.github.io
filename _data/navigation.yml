@@ -3,11 +3,11 @@ main:
    - title: "About"
      url: /about/
    - title: "Chic2.0"
-     url: /year-archive/
+     url: /chic2/
    - title: "Pantolino"
-     url: /portfolio/
+     url: /panto/
    - title: "workshops"
-     url: /terms/
+     url: /portfolio/
    - title: "How to contribute?"
      url: /how/
  #  - title: "Sitemap Ref"
