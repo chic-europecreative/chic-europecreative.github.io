@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/igor-ovsyannykov-342526.jpg
   overlay_filter: 0.5
   caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
-excerpt: 'A flexible two-column Jekyll theme.'
+excerpt: 'An European project aimed at connecting, networking, discussing creative process around the «stamp» and the notion of «free»'
 ---
 
 ## Fondations
