@@ -7,10 +7,6 @@ header:
   overlay_filter: 0.5
   caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
 excerpt: 'A flexible two-column Jekyll theme.'
-feature_row:
-    - image_path: /assets/images/simple.gif
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
 ---
 
 ## Fondations
@@ -20,4 +16,8 @@ Our partners from Belgium, Spain, France, Italy and Latvia are sensitive to the 
 
 They wanted to share their expertise in a collective project in order to experiment with new ways of « rebuilding cities », founded on an economy of solidarity.
 
-{% include feature_row type="center" %}
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/simple.gif" alt="">
+</figure>
+
