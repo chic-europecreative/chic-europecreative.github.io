@@ -6,7 +6,8 @@ excerpt: "An European project aimed at connecting, networking, discussing creati
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/igor-ovsyannykov-342526.jpg
-    caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
+  caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
+excerpt: 'A flexible two-column Jekyll theme.'
 ---
 
 ## Fondations
