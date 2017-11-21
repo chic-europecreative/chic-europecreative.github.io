@@ -1,7 +1,7 @@
 ---
 title: CHIC - Cultural Hybridation In Common
 layout: splash
-permalink: /
+# permalink: /
 excerpt: "An European project aimed at connecting, networking, discussing creative process around the «stamp» and the notion of «free». "
 header:
   overlay_color: "#5e616c"
