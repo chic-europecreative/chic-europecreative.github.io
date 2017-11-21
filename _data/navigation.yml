@@ -6,10 +6,10 @@ main:
      url: /year-archive/
    - title: "Pantolino"
      url: /portfolio/
- #  - title: "workshops"
- #    url: /terms/
- #  - title: "How to contribute?"
- #    url: /sample-page/
+   - title: "workshops"
+     url: /terms/
+   - title: "How to contribute?"
+     url: /sample-page/
  #  - title: "Sitemap Ref"
  #    url: https://mmistakes.github.io/minimal-mistakes/sitemap
  #  - title: "CC-By-SA"
