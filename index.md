@@ -3,13 +3,13 @@ title: CHIC - Cultural Hybridation In Common
 layout: splash
 excerpt: "An European project aimed at connecting, networking, discussing creative process around the «stamp» and the notion of «free». "
 header:
-  overlay_color: "#26282c"
+ # overlay_color: "#26282c"
   overlay_image: /assets/images/igor-ovsyannykov-342526.jpg
   overlay_filter: 0.5
   caption: Photo by Igor Ovsyannykov on [Unsplash](https://unsplash.com/photos/4A8ZSlAOUqs)
 excerpt: 'A flexible two-column Jekyll theme.'
 feature_row:
-    - image_path: http://www.chic-europecreative.eu/wa_images/simple.gif
+    - image_path: "http://www.chic-europecreative.eu/wa_images/simple.gif"
     alt: "placeholder image 1"
     title: "Placeholder 1"
 ---
