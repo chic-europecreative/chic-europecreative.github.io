@@ -1,7 +1,7 @@
 ---
 title: "How to contribute"
 layout: "archive"
-permalink: /sample-page/
+permalink: /how/
 date: 2016-02-24T03:02:20+00:00
 ---
 
