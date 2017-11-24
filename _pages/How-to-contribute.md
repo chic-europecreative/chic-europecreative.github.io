@@ -21,5 +21,6 @@ sans avoir à passer par la création de documents multiples, l’envoi de mails
 Le site que vous parcourez en ce moment a été créé de cette manière, par deux personnes qui n’ont aucune notion de web design !
 
 Pour plus d’information, nous vous invitons à consulter la page suivante (be careful, it’s in English) :
-https://guides.github.com/activities/hello-world/
+[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
+[To edit this page, go here](https://github.com/chic-europecreative/chic-europecreative.github.io/blob/master/_pages/How-to-contribute.md)
