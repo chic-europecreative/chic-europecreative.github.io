@@ -37,3 +37,6 @@ The local democracy crisis: can the Open design have an impact on the way citize
 Putting the classic economic models into question: cooperation rather than competitiveness; the creative commons rather than royalty payments: are these simply militant choices, or do they incarnate models of research/development and income which are effective, ethical and fair?
 
 **What new forms of cooperation, what new methods of production and of communal sharing would help our society to evolve, as it is currently experiencing various crises?**
+
+
+[As always, you can edit this here](https://github.com/chic-europecreative/chic-europecreative.github.io/blob/master/_pages/about.md)
