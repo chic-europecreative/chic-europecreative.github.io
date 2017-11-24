@@ -39,4 +39,4 @@ Putting the classic economic models into question: cooperation rather than compe
 **What new forms of cooperation, what new methods of production and of communal sharing would help our society to evolve, as it is currently experiencing various crises?**
 
 
-[As always, you can edit this here](https://github.com/chic-europecreative/chic-europecreative.github.io/blob/master/_pages/about.md)
+And as always, you can help us and [contribute on this page here](https://github.com/chic-europecreative/chic-europecreative.github.io/blob/master/_pages/about.md)
