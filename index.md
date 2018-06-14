@@ -20,3 +20,5 @@ They wanted to share their expertise in a collective project in order to experim
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/simple.gif" width="150" alt="">
 </figure>
 
+
+![europe](https://user-images.githubusercontent.com/33860632/35850002-bbe525f8-0b23-11e8-803d-0038e6e5aa4e.jpg)
