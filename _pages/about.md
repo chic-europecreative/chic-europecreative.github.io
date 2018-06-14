@@ -40,3 +40,7 @@ Putting the classic economic models into question: cooperation rather than compe
 
 
 And as always, you can help us and [contribute on this page here](https://github.com/chic-europecreative/chic-europecreative.github.io/blob/master/_pages/about.md)
+
+
+
+![img](https://user-images.githubusercontent.com/33860632/35850002-bbe525f8-0b23-11e8-803d-0038e6e5aa4e.jpg)
