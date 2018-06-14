@@ -7,7 +7,7 @@ main:
    - title: "Pantolino"
      url: /pantolino/
    - title: "workshops"
-     url: /portfolio/
+#     url: /portfolio/
    - title: "How to contribute?"
      url: /how/
  #  - title: "Sitemap Ref"
